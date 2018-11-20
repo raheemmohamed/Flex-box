@@ -1,0 +1,25 @@
+.flex-box-container{
+    
+    width: 60%;
+    border:1px dotted black;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+   
+}
+.flex-row{
+   width: 200px;
+   border:1px solid black;
+   height: 200px;
+   background: rebeccapurple;
+   padding: 5px;
+   margin: 5px 5px;
+   /* display: inline-block; */
+   
+}
